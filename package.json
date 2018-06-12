@@ -1,6 +1,6 @@
 {
   "name": "@troposhq/kong-jwt-middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Express middleware to extract Kong upstream headers from the JWT plugin.",
   "main": "lib/index.js",
   "scripts": {
