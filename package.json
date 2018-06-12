@@ -1,0 +1,11 @@
+{
+  "name": "@troposhq/kong-jwt-middleware",
+  "version": "0.0.1",
+  "description": "Express middleware to extract Kong upstream headers from the JWT plugin.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alois Barreras <alois@troposhq.com>",
+  "license": "MIT"
+}
